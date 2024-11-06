@@ -1,0 +1,32 @@
+[
+  {
+    "queryName": "Query05",
+    "q": "pelosi",
+    "language": "en",
+    "pageSize": 10
+  },
+  {
+    "queryName": "Query04",
+    "q": "fox",
+    "language": "en",
+    "pageSize": 10
+  },
+  {
+    "queryName": "Query03",
+    "q": "trump",
+    "language": "en",
+    "pageSize": 10
+  },
+  {
+    "queryName": "Query02",
+    "q": "kamala",
+    "language": "en",
+    "pageSize": 10
+  },
+  {
+    "queryName": "Query01",
+    "q": "work",
+    "language": "en",
+    "pageSize": 10
+  }
+]
