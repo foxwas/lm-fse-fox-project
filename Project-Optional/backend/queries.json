@@ -1,0 +1,20 @@
+[
+  {
+    "queryName": "3",
+    "q": "sports",
+    "language": "en",
+    "pageSize": 10
+  },
+  {
+    "queryName": "2",
+    "q": "politics",
+    "language": "en",
+    "pageSize": 10
+  },
+  {
+    "queryName": "1",
+    "q": "music",
+    "language": "en",
+    "pageSize": 10
+  }
+]

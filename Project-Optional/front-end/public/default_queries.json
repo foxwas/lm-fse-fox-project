@@ -1,0 +1,5 @@
+[
+  {"queryName": "Query01", "q": "news", "language": "en", "pageSize": 10},
+  {"queryName": "Query02", "q": "sports", "language": "en", "pageSize": 10},
+  {"queryName": "Query03", "q": "music", "language": "en", "pageSize": 10}
+]
