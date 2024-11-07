@@ -29,8 +29,18 @@ export function QueryForm(params) {
         return false;
         }
 
+        function currentUserNull(){
+            if(params.currentUser == null){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+
     return (
-        <div>
+        <div className={(currentUserNull())?"hidden":"visible"}
+        style={{border: "solid black 1px"}}>
             <form>
             <div className={(currentUserIsAdmin())?"visible":"hidden"}
                             style={{border: "solid black 1px"}}>

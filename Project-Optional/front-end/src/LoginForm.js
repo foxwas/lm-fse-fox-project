@@ -20,7 +20,7 @@ export function LoginForm(params) {
 
                 <div>
                     <label htmlFor="password">Password: </label>
-                    <input type="text" size={10} id="password" name="password" value={params.credentials.password} onChange={handleChange} />
+                    <input type="password" size={10} id="password" name="password" value={params.credentials.password} onChange={handleChange} />
                 </div>
             </div>
         </div>
